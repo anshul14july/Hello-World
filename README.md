@@ -1,2 +1,2 @@
 # Hello-World
-hello-world repository is a place where you store ideas, resources, or even share and discuss things with others.
+This is done just for a change no hard and fast rules involved just to check how commit feature works.
